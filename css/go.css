@@ -1,0 +1,27 @@
+#master{
+		width: 1024px;
+		height: 800px;
+		border: 5px solid #130202;
+		margin: auto;
+		padding: 1px;
+		}
+
+header {
+		/*position: static;
+		top: 45px;
+		left: 100px;
+		height: 70px;
+	
+		border: 1px solid #009010;*/
+		border-style:solid;
+		
+		}
+		
+	nav{
+		position: relative;
+		top: 0px;
+		left: 0px;
+		border-style: 1px solid #0ff;	
+		height: 70px;
+	
+		}
